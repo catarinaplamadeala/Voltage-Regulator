@@ -1,0 +1,5 @@
+ (library MAIN_LIB
+  (edifLevel 0)
+  (technology
+   (numberDefinition
+    (scale 1 1 (unit distance))))

@@ -1,0 +1,23 @@
+(edif SCHEMATIC1
+ (edifVersion 2 0 0)
+ (edifLevel 0)
+ (keywordMap (keywordLevel 0))
+ (status
+  (written
+   (timeStamp 2024 11 20 13 21 32)
+   (program "CAPTURE.EXE" (Version "24.1-2024"))
+   (comment "Original data from OrCAD/CAPTURE schematic"))
+  (comment "")
+  (comment "Wednesday, November 20, 2024")
+  (comment "C:\USERS\CATARINA\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\P1_STAB_TENS\P1_STAB_TENS.DSN")
+  (comment "")
+  (comment "")
+  (comment "")
+  (comment "")
+  (comment "")
+  (comment ""))
+ (external OrCAD_LIB
+  (edifLevel 0)
+  (technology
+   (numberDefinition
+    (scale 1 1 (unit distance))))

@@ -1,0 +1,220 @@
+(ExpressProject "p1_stab_tens"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[12/14/24]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\p1_stab_tens.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\p1_stab_tens.dsn"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (Netlist_TAB "1")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\P1_STAB_TENS.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (EDIF_Netlist_File "P1_STAB_TENS.EDN")
+    (EDIF_Allow_NonEDIF "FALSE")
+    (EDIF_Pin_Names "FALSE")
+    (EDIF_No_Library "FALSE")
+    (EDIF_Net_Props "FALSE")
+    (EDIF_Part_Props "FALSE")
+    (EDIF_Pin_Props "FALSE")
+    (EDIF_Scalars "FALSE")
+    (EDIF_Designators "FALSE")
+    (EDIF_Part_Value "{Value}")
+    (EDIF_PCB_Footprint "{PCB Footprint}")
+    (EDIF_View_Output "FALSE")
+    (Display_Online_DRC_Results "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\USERS\CATARINA\ONEDRIVE\CATARINA\POLITEHNICA\AN 3 SEM 1\P1\P1_2024_432E_PLAMADEALA_CATARINA_SERS_N15_ORCAD\SCHEMATICS\P1_STAB_TENS\P1_STAB_TENS.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\USERS\CATARINA\ONEDRIVE\CATARINA\POLITEHNICA\AN 3 SEM 1\P1\P1_2024_432E_PLAMADEALA_CATARINA_SERS_N15_ORCAD\SCHEMATICS\P1_STAB_TENS\P1_STAB_TENS.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (Sort User)
+    (File ".\p1_stab_tens_output\bom.sch.csv"
+      (Type "Report")
+      (DisplayName ".\P1_STAB_TENS_OUTPUT\BOM.SCH.CSV"))
+    (File ".\p1_stab_tens-pspicefiles\schematic1\schematic1.net"
+      (Type "Report")
+      (DisplayName ".\p1_stab_tens-pspicefiles\schematic1\schematic1.net"))
+    (File ".\p1_stab_tens.edn"
+      (Type "Report")
+      (DisplayName ".\p1_stab_tens.edn"))
+    (File ".\p1_stab_tens.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile ".\p1_stab_tens-pspicefiles\schematic1\simulare.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\p1_stab_tens-pspicefiles\schematic1\simulare.sim"
+        (DisplayName "SCHEMATIC1-simulare")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User)
+      (File "c:\cadence\tools\pspice\modele_a1_lib\bc817-25.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName
+           "..\..\..\..\..\..\..\..\..\..\cadence\tools\pspice\modele_a1_lib\bc817-25.lib"))
+      (File "c:\cadence\tools\pspice\modele_a1_lib\bc846b.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName
+           "..\..\..\..\..\..\..\..\..\..\cadence\tools\pspice\modele_a1_lib\bc846b.lib"))
+      (File "c:\cadence\tools\pspice\modele_a1_lib\bc856b.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName
+           "..\..\..\..\..\..\..\..\..\..\cadence\tools\pspice\modele_a1_lib\bc856b.lib"))
+      (File "c:\cadence\tools\pspice\modele_a1_lib\bzx84c5v6.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName
+           "..\..\..\..\..\..\..\..\..\..\cadence\tools\pspice\modele_a1_lib\bzx84c5v6.lib"))
+      (File "c:\cadence\tools\pspice\modele_a1_lib\1n4148.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName
+           "..\..\..\..\..\..\..\..\..\..\cadence\tools\pspice\modele_a1_lib\1n4148.lib"))
+      (File "c:\cadence\tools\pspice\modele_a1_lib\mjd31cg.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName
+           "..\..\..\..\..\..\..\..\..\..\cadence\tools\pspice\modele_a1_lib\mjd31cg.lib")))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User))
+    (File "c:\cadence\tools\pspice\modele_a1_lib\bc817-25.lib"
+      (Type "Schematic Library")
+      (DisplayName
+         "..\..\..\..\..\..\..\..\..\..\cadence\tools\pspice\modele_a1_lib\bc817-25.lib"))
+    (File "c:\cadence\tools\pspice\modele_a1_lib\bc846b.lib"
+      (Type "Schematic Library")
+      (DisplayName
+         "..\..\..\..\..\..\..\..\..\..\cadence\tools\pspice\modele_a1_lib\bc846b.lib"))
+    (File "c:\cadence\tools\pspice\modele_a1_lib\bc856b.lib"
+      (Type "Schematic Library")
+      (DisplayName
+         "..\..\..\..\..\..\..\..\..\..\cadence\tools\pspice\modele_a1_lib\bc856b.lib"))
+    (File "c:\cadence\tools\pspice\modele_a1_lib\bzx84c5v6.lib"
+      (Type "Schematic Library")
+      (DisplayName
+         "..\..\..\..\..\..\..\..\..\..\cadence\tools\pspice\modele_a1_lib\bzx84c5v6.lib"))
+    (File "c:\cadence\tools\pspice\modele_a1_lib\1n4148.lib"
+      (Type "Schematic Library")
+      (DisplayName
+         "..\..\..\..\..\..\..\..\..\..\cadence\tools\pspice\modele_a1_lib\1n4148.lib"))
+    (File "c:\cadence\tools\pspice\modele_a1_lib\mjd31cg.lib"
+      (Type "Schematic Library")
+      (DisplayName
+         "..\..\..\..\..\..\..\..\..\..\cadence\tools\pspice\modele_a1_lib\mjd31cg.lib")))
+  (Folder "Logs")
+  (PartMRUSelector
+    (QMJD31C
+      (FullPartName "QMJD31C.Normal")
+      (LibraryName "C:\CADENCE\TOOLS\PSPICE\MODELE_A1_LIB\MJD31CG.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (VAC
+      (FullPartName "VAC.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (IAC
+      (FullPartName "IAC.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (1N4148
+      (FullPartName "1N4148.Normal")
+      (LibraryName "C:\CADENCE\TOOLS\PSPICE\MODELE_A1_LIB\1N4148.OLB")
+      (DeviceIndex "0"))
+    (IDC
+      (FullPartName "IDC.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName
+         "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (POT
+      (FullPartName "POT.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (QBC817-25
+      (FullPartName "QBC817-25.Normal")
+      (LibraryName "C:\CADENCE\TOOLS\PSPICE\MODELE_A1_LIB\BC817-25.OLB")
+      (DeviceIndex "0"))
+    (QBC856B
+      (FullPartName "QBC856B.Normal")
+      (LibraryName "C:\CADENCE\TOOLS\PSPICE\MODELE_A1_LIB\BC856B.OLB")
+      (DeviceIndex "0"))
+    (QBC846B
+      (FullPartName "QBC846B.Normal")
+      (LibraryName "C:\CADENCE\TOOLS\PSPICE\MODELE_A1_LIB\BC846B.OLB")
+      (DeviceIndex "0"))
+    (BZX84-C5V6
+      (FullPartName "BZX84-C5V6.Normal")
+      (LibraryName "C:\CADENCE\TOOLS\PSPICE\MODELE_A1_LIB\BZX84C5V6.OLB")
+      (DeviceIndex "0"))
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\tools\pspice\Modele_A1_lib")
+  (MPSSessionName "Catarina")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Path "PSpice Resources" "Model Libraries")
+      (Path "PSpice Resources" "Simulation Profiles"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 150 0 687"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 0 0 5 1340 24 705")
+        (Scroll "-220 -4")
+        (Zoom "89")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\CATARINA\ONEDRIVE\CATARINA\POLITEHNICA\AN 3 SEM 1\P1\P1_2024_432E_PLAMADEALA_CATARINA_SERS_N15_ORCAD\SCHEMATICS\P1_STAB_TENS\P1_STAB_TENS.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Stabilizator")))
+  (ISPCBBASICLICENSE "false"))

@@ -1,0 +1,446 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../Politehnica/An 3 sem 1/P1/for Layout/import_layout_DR/LAYOUT.brd      |
+|                                                    Thu Nov 28 16:10:24 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins MOVED FROM this net (to net name listed on right)
+                                 Q10.2                          
+                                                                            OUT
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 D1.1                           
+                                 OUT.2                          
+                                 Q12.2                          
+                                 R7.1                           
+                                 R9.1                           
+                                 RL6.1                          
+                                 VCC.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IN           pins ADDED TO this new net
+                                 Q8.3                           
+                                 Q9.2                           
+                                 Q11.3                          
+                                 R4.2                           
+                                 R5.2                           
+                                 RZ1.2                          
+                                 RZ.2                           
+                                 VCC.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00405       pins ADDED TO this new net
+                                 R4.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00423       pins ADDED TO this new net
+                                 DIFF-OUT.1                     
+                                 Q8.1                           
+                                 Q12.3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00427       pins ADDED TO this new net
+                                 R5.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00640       pins ADDED TO this new net
+                                 Q8.2                           
+                                 Q9.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01001       pins ADDED TO this new net
+                                 POUT.1                         
+                                 R8.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01005       pins ADDED TO this new net
+                                 POUT.3                         
+                                 R9.2                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../Politehnica/An 3 sem 1/P1/for Layout/import_layout_DR/LAYOUT.brd      |
+|                                                    Thu Nov 28 16:10:24 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N01027       pins ADDED TO this new net
+                                 DIFF-BASE.1                    
+                                 POUT.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01311       pins ADDED TO this new net
+                                 Q9.3                           
+                                 R11.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01315       pins ADDED TO this new net
+                                 R11.1                          
+                                 R12.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02988       pins ADDED TO this new net
+                                 RL1.1                          
+                                 RL2.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02992       pins ADDED TO this new net
+                                 RL2.1                          
+                                 RL3.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02996       pins ADDED TO this new net
+                                 RL3.1                          
+                                 RL4.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03000       pins ADDED TO this new net
+                                 RL4.1                          
+                                 RL5.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03109       pins ADDED TO this new net
+                                 RL5.1                          
+                                 RL6.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05202       pins ADDED TO this new net
+                                 P.3                            
+                                 R6.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05206       pins ADDED TO this new net
+                                 P.1                            
+                                 R7.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05678       pins ADDED TO this new net
+                                 P.2                            
+                                 Q12.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N049661      pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../Politehnica/An 3 sem 1/P1/for Layout/import_layout_DR/LAYOUT.brd      |
+|                                                    Thu Nov 28 16:10:24 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 Q11.2                          
+                                 R6.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347123      pins MOVED FROM this net (to net name listed on right)
+                                 Q10.1                          
+                                                                         N01311
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347215      pins MOVED FROM this net (to net name listed on right)
+                                 Q10.3                          
+                                                                         N00423
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347421      pins MOVED FROM this net (to net name listed on right)
+                                 Q4.2                           
+                                                                         N00168
+                                 R1.1                           
+                                                                         N00489
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347457      pins MOVED FROM this net (to net name listed on right)
+                                 Q2.2                           
+                                                                         N00393
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347461      pins MOVED FROM this net (to net name listed on right)
+                                 R3.2                           
+                                                                         N00397
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347467      pins MOVED FROM this net (to net name listed on right)
+                                 Q1.2                           
+                                                                         N00192
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347471      pins MOVED FROM this net (to net name listed on right)
+                                 Q6.1                           
+                                                                         N00401
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347667      pins MOVED FROM this net (to net name listed on right)
+                                 Q1.3                           
+                                                                         N00489
+                                 Q4.3                           
+                                                                         N00401
+                                 Q5.1                           
+                                                                         N01027
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347685      pins MOVED FROM this net (to net name listed on right)
+                                 Q2.3                           
+                                                                         N00192
+                                 Q3.1                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../Politehnica/An 3 sem 1/P1/for Layout/import_layout_DR/LAYOUT.brd      |
+|                                                    Thu Nov 28 16:10:24 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                         N00192
+                                 Q3.3                           
+                                                                         N00168
+                                 Q4.1                           
+                                                                           VREF
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347699      pins MOVED FROM this net (to net name listed on right)
+                                 Q3.2                           
+                                                                         N00397
+                                 R2.1                           
+                                                                              0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347817      pins MOVED FROM this net (to net name listed on right)
+                                 Q5.2                           
+                                                                         N00168
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347823      pins MOVED FROM this net (to net name listed on right)
+                                 Q5.3                           
+                                                                         N00423
+                                 Q7.1                           
+                                                                         N00401
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT          pins ADDED TO this new net
+                                 OUT.1                          
+                                 R8.2                           
+                                 R12.1                          
+                                 RL1.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V+           pins MOVED FROM this net (to net name listed on right)
+                                 Q7.3                           
+                                                                         N00423
+                                 R1.2                           
+                                                                             IN
+                                 R2.2                           
+                                                                         N00393
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V-           pins MOVED FROM this net (to net name listed on right)
+                                 Q6.3                           
+                                                                         N00401
+                                 R3.1                           
+                                                                              0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VIN          pins MOVED FROM this net (to net name listed on right)
+                                 Q2.1                           
+                                                                         N00192
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../Politehnica/An 3 sem 1/P1/for Layout/import_layout_DR/LAYOUT.brd      |
+|                                                    Thu Nov 28 16:10:24 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  VIP          pins MOVED FROM this net (to net name listed on right)
+                                 Q1.1                           
+                                                                           VREF
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VO           pins MOVED FROM this net (to net name listed on right)
+                                 Q6.2                           
+                                                                         N00405
+                                 Q7.2                           
+                                                                         N00427
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VREF         pins ADDED TO this new net
+                                 D1.3                           
+                                 Q11.1                          
+                                 RZ1.1                          
+                                 RZ.1                           
+                                 ZENER.1                        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../Politehnica/An 3 sem 1/P1/for Layout/import_layout_DR/LAYOUT.brd      |
+|                                                    Thu Nov 28 16:10:24 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BZX84-C5V6_5_TO236_BZX84-C5V6
+ POT_TS53YL_5K
+ QBC846B_1_TO236_QBC846B
+ QBC846B_2_TO236_QBC846B
+ QBC846B_3_TO236_QBC846B
+ QBC856B_1_TO236_QBC856B
+ QMJD31C_2_DPACK_QMJD31C
+ R_SMR0805_1
+ R_SMR0805_100
+ R_SMR0805_150
+ R_SMR0805_3K3
+ R_SMR0805_5K6
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../Politehnica/An 3 sem 1/P1/for Layout/import_layout_DR/LAYOUT.brd      |
+|                                                    Thu Nov 28 16:10:24 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C4                  C_SMC0805_10N                        
+ C5                  C_SMC0805_10N                        
+ C7                  C_SMC0805_1U                         
+ C20                 C_SMC0805_470P                       
+ D5                  1N4148_0_SMD0805_1N4148                
+ D6                  1N4148_0_SMD0805_1N4148                
+ D9                  1N4148_0_SMD0805_1N4148                
+ D14                 1N4148_0_SMD0805_1N4148                
+ D19                 1N4148_0_SMD0805_1N4148                
+ J1                  CON1_JUMPER1_CON1                    
+ J2                  CON1_JUMPER1_CON1                    
+ J3                  CON1_JUMPER1_CON1                    
+ P1                  POT_TS53YL_500K                      
+ P2                  POT_TS53YL_10K                       
+ P3                  POT_TS53YL_10K                       
+ R19                 R_SMR0805_22K                        
+ R31                 R_SMR0805_10K                        
+ R35                 R_SMR0805_1.5K                       
+ R36                 R_SMR0805_1.5K                       
+ R38                 R_SMR0805_1K                         
+ R39                 R_SMR0805_1000K                      
+ R77                 R_SMR0805_3K                         
+ R84                 POT_TS53YL_100                       
+ R4_1                R_SMR0805_1.5K                       
+ R4_2                R_SMR0805_220                        
+ R4_3                R_SMR0805_220                        
+ V+                  CON2_JUMPER2_CON2                    
+ V-                  CON2_JUMPER2_CON2                    
+ VO                  CON2_JUMPER2_CON2                    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:.../Politehnica/An 3 sem 1/P1/for Layout/import_layout_DR/LAYOUT.brd      |
+|                                                    Thu Nov 28 16:10:24 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ DIFF-BASE           CON1_JUMPER1_CON1     
+ DIFF-OUT            CON1_JUMPER1_CON1     
+ OUT                 CON2_JUMPER2_CON2     
+ P                   POT_TS53YL_100        
+ POUT                POT_TS53YL_5K         
+ Q8                  QBC846B_2_TO236_QBC846B 
+ Q9                  QMJD31C_2_DPACK_QMJD31C 
+ Q11                 QBC846B_1_TO236_QBC846B 
+ Q12                 QBC846B_1_TO236_QBC846B 
+ R4                  R_SMR0805_220         
+ R5                  R_SMR0805_220         
+ R6                  R_SMR0805_1K          
+ R7                  R_SMR0805_51          
+ R8                  R_SMR0805_1K          
+ R9                  R_SMR0805_3K3         
+ R11                 R_SMR0805_1           
+ R12                 R_SMR0805_1           
+ RL1                 R_SMR0805_150         
+ RL2                 R_SMR0805_150         
+ RL3                 R_SMR0805_150         
+ RL4                 R_SMR0805_100         
+ RL5                 R_SMR0805_100         
+ RL6                 R_SMR0805_100         
+ RZ1                 R_SMR0805_5K6         
+ RZ                  R_SMR0805_5K6         
+ VCC                 CON2_JUMPER2_CON2     
+ ZENER               CON1_JUMPER1_CON1     
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:.../Politehnica/An 3 sem 1/P1/for Layout/import_layout_DR/LAYOUT.brd      |
+|                                                    Thu Nov 28 16:10:24 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D1                  BZX84-C5V6_5_TO236_BZX84-C5V6                 1N4148_0_SMD0805_1N4148
+ Q1                  QBC846B_1_TO236_QBC846B                 QBC817-25_0_TO236_QBC817-25
+ Q2                  QBC846B_1_TO236_QBC846B                 QBC817-25_0_TO236_QBC817-25
+ Q3                  QBC846B_1_TO236_QBC846B                 QBC807-25_0_TO236_QBC807-25
+ Q4                  QBC846B_1_TO236_QBC846B                 QBC807-25_0_TO236_QBC807-25
+ Q5                  QBC846B_1_TO236_QBC846B                 QBC807-25_0_TO236_QBC807-25
+ Q6                  QBC856B_1_TO236_QBC856B                 QBC807-25_0_TO236_QBC807-25
+ Q7                  QBC856B_1_TO236_QBC856B                 QBC817-25_0_TO236_QBC817-25
+ Q10                 QBC846B_3_TO236_QBC846B                 JMMBFJ309LT1_1_TO236_JMMBFJ309L
+ R1                  R_SMR0805_3K3                         R_SMR0805_51
+ R2                  R_SMR0805_1K                          R_SMR0805_51
+ R3                  R_SMR0805_1K                          R_SMR0805_4.7K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:.../Politehnica/An 3 sem 1/P1/for Layout/import_layout_DR/LAYOUT.brd      |
+|                                                    Thu Nov 28 16:10:24 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D1.3                           PRIM_FILE      .\pstchip.dat
+ DIFF-BASE.1                    PRIM_FILE      .\pstchip.dat
+ DIFF-OUT.1                     PRIM_FILE      .\pstchip.dat
+ OUT.2                          PRIM_FILE      .\pstchip.dat
+ P.2                            PRIM_FILE      .\pstchip.dat
+ POUT.2                         PRIM_FILE      .\pstchip.dat
+ Q1.3                           PRIM_FILE      .\pstchip.dat
+ Q2.3                           PRIM_FILE      .\pstchip.dat
+ Q3.3                           PRIM_FILE      .\pstchip.dat
+ Q4.3                           PRIM_FILE      .\pstchip.dat
+ Q5.3                           PRIM_FILE      .\pstchip.dat
+ Q6.3                           PRIM_FILE      .\pstchip.dat
+ Q7.3                           PRIM_FILE      .\pstchip.dat
+ Q8.3                           PRIM_FILE      .\pstchip.dat
+ Q9.3                           PRIM_FILE      .\pstchip.dat
+ Q10.3                          PRIM_FILE      .\pstchip.dat
+ Q11.3                          PRIM_FILE      .\pstchip.dat
+ Q12.3                          PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ RL1.2                          PRIM_FILE      .\pstchip.dat
+ RL2.2                          PRIM_FILE      .\pstchip.dat
+ RL3.2                          PRIM_FILE      .\pstchip.dat
+ RL4.2                          PRIM_FILE      .\pstchip.dat
+ RL5.2                          PRIM_FILE      .\pstchip.dat
+ RL6.2                          PRIM_FILE      .\pstchip.dat
+ RZ1.2                          PRIM_FILE      .\pstchip.dat
+ RZ.2                           PRIM_FILE      .\pstchip.dat
+ VCC.2                          PRIM_FILE      .\pstchip.dat
+ ZENER.1                        PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:.../Politehnica/An 3 sem 1/P1/for Layout/import_layout_DR/LAYOUT.brd      |
+|                                                    Thu Nov 28 16:10:24 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      89                                        |
+|       Comp definitions added:      12                                        |
+|       Components added      :      27                                        |
+|       Components deleted    :      29                                        |
+|       Components changed    :      12                                        |
+|       Slot property added   :      39                                        |
+|                                                                              |
+|   Total ECO changes reported:     208                                        |
+|------------------------------------------------------------------------------|

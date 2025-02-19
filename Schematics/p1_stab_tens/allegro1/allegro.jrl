@@ -1,0 +1,15 @@
+\t (00:00:03) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:03)     Journal start - Sat Nov 30 00:19:12 2024
+\t (00:00:03)         Host=DESKTOP-MJAR3T8 User=Catarina Pid=14296 CPUs=20
+\t (00:00:03) CmdLine= C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\allegro.exe -orcad
+\t (00:00:03) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/Users/Catarina/OneDrive/Catarina/Politehnica/An 3 sem 1/P1/P1_2024_432E_Plamadeala_Catarina_SERS_N15_OrCAD/Schematics/p1_stab_tens/allegro1/P1_STAB_TENS.brd
+\i (00:00:03) trapsize 1450
+\i (00:00:03) trapsize 1416
+\i (00:00:03) trapsize 1456
+\i (00:00:03) trapsize 1272
+\i (00:00:03) trapsize 1272
+\i (00:00:03) generaledit 
+\i (00:00:38) exit 
+\t (00:00:39)     Journal end - Sat Nov 30 00:19:48 2024

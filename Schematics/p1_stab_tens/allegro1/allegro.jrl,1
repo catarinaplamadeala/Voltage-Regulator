@@ -1,0 +1,79 @@
+\t (00:00:03) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:03)     Journal start - Sat Nov 30 00:16:55 2024
+\t (00:00:03)         Host=DESKTOP-MJAR3T8 User=Catarina Pid=16884 CPUs=20
+\t (00:00:03) CmdLine= C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\allegro.exe -orcad
+\t (00:00:03) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/Users/Catarina/OneDrive/Catarina/Politehnica/An 3 sem 1/P1/P1_2024_432E_Plamadeala_Catarina_SERS_N15_OrCAD/Schematics/p1_stab_tens/allegro1/P1_STAB_TENS.brd
+\i (00:00:04) trapsize 2900
+\i (00:00:04) trapsize 2833
+\i (00:00:04) trapsize 2912
+\i (00:00:04) trapsize 2544
+\i (00:00:04) trapsize 2544
+\i (00:00:04) generaledit 
+\i (00:00:06) zoom fit 
+\i (00:00:06) trapsize 1272
+\i (00:00:15) save 
+\i (00:00:16) fillin yes 
+\i (00:00:16) generaledit 
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 844.64 1310.13
+\i (00:00:43) trapsize 2544
+\i (00:00:46) zoom in 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 844.64 1310.13
+\i (00:00:46) trapsize 1272
+\i (00:00:46) zoom in 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 844.64 1310.13
+\i (00:00:46) trapsize 636
+\i (00:00:48) zoom points 
+\t (00:00:48) Pick 1st corner of the new window.
+\i (00:00:49) pick 407.13 1359.73
+\t (00:00:49) last pick:  407.13 1359.73
+\t (00:00:49) Pick to complete the window.
+\i (00:00:51) pick 423.66 1338.11
+\t (00:00:51) last pick:  423.66 1338.11
+\i (00:00:51) trapsize 17
+\i (00:00:51) generaledit 
+\i (00:00:52) zoom fit 
+\i (00:00:52) trapsize 1272
+\i (00:01:01) save 
+\i (00:01:02) fillin yes 
+\i (00:01:02) generaledit 
+\i (00:01:42) pick grid 1139.71 681.84
+\t (00:01:42) last pick:  1150.00 675.00
+\i (00:01:42) prepopup 1139.71 681.84
+\i (00:01:47) pick grid 1676.43 1065.93
+\t (00:01:47) last pick:  1675.00 1075.00
+\i (00:01:48) pick grid 951.47 1111.72
+\t (00:01:48) last pick:  950.00 1100.00
+\i (00:01:48) pick grid dbl 951.47 1111.72
+\t (00:01:48) last pick:  950.00 1100.00
+\i (00:01:49) pick grid 1025.24 1409.33
+\t (00:01:49) last pick:  1025.00 1400.00
+\i (00:01:51) pick grid 1063.40 1241.45
+\t (00:01:51) last pick:  1075.00 1250.00
+\e (00:01:51) Command not found: ~A
+\i (00:01:52) save 
+\i (00:01:53) fillin yes 
+\i (00:01:53) generaledit 
+\i (00:02:01) trapsize 2753
+\i (00:02:02) trapsize 1272
+\i (00:02:04) status 
+\i (00:02:04) generaledit 
+\i (00:02:09) setwindow form.status
+\i (00:02:09) FORM status drc_update  
+\t (00:02:09) Running DRC, wait...
+\t (00:02:09) Performing DRC...
+\t (00:02:09) The number of threads for DRC checking is reduced from 20 to the maximum supported (16).
+\t (00:02:09) Multithreaded DRC update (16 threads).
+\t (00:02:09) No DRC errors detected.
+\t (00:02:09) DRC done.
+\i (00:02:11) FORM status done  
+\i (00:02:13) setwindow pcb
+\i (00:02:13) exit 
+\e (00:02:13) Do you want to save the changes you made to C:/Users/Catarina/OneDrive/Catarina/Politehnica/An 3 sem 1/P1/P1_2024_432E_Plamadeala_Catarina_SERS_N15_OrCAD/Schematics/p1_stab_tens/allegro1/P1_STAB_TENS.brd?
+\i (00:02:14) fillin yes 
+\t (00:02:14)     Journal end - Sat Nov 30 00:19:06 2024

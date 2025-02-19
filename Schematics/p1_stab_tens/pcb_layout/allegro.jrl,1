@@ -1,0 +1,50 @@
+\t (00:00:06) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:06)     Journal start - Sun Dec 08 15:17:05 2024
+\t (00:00:06)         Host=DESKTOP-MJAR3T8 User=Catarina Pid=28140 CPUs=20
+\t (00:00:06) CmdLine= C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\allegro.exe -orcad
+\t (00:00:06) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: C:/Users/Catarina/OneDrive/Catarina/Politehnica/An 3 sem 1/P1/P1_2024_432E_Plamadeala_Catarina_SERS_N15_OrCAD/Schematics/p1_stab_tens/pcb_layout/P1_STAB_TENS.brd
+\i (00:00:07) trapsize 1442
+\i (00:00:07) trapsize 1408
+\i (00:00:07) trapsize 1448
+\i (00:00:07) trapsize 1265
+\i (00:00:07) trapsize 1265
+\i (00:00:07) generaledit 
+\i (00:00:10) pick grid 302.99 1370.46
+\t (00:00:10) last pick:  300.00 1375.00
+\i (00:00:10) prepopup 302.99 1370.46
+\i (00:00:14) pop dyn_option_select 'Modify design padstack@:@All instances' 
+\i (00:00:14) mod padstack 
+\i (00:00:35) setwindow form.padedit
+\i (00:00:35) pse_exit
+\i (00:00:35) setwindow pcb
+\i (00:00:35) generaledit 
+\i (00:00:37) pick grid 219.52 1170.63
+\t (00:00:37) last pick:  225.00 1175.00
+\i (00:00:37) prepopup 219.52 1170.63
+\i (00:01:01) prepopup 201.81 1145.33
+\i (00:01:03) pop dyn_option_select 'Modify design padstack@:@All instances' 
+\i (00:01:03) mod padstack 
+\i (00:01:07) setwindow form.padedit
+\i (00:01:07) pse_exit
+\i (00:01:07) setwindow pcb
+\i (00:01:07) generaledit 
+\i (00:01:08) pick grid 1127.63 910.08
+\t (00:01:08) last pick:  1125.00 900.00
+\i (00:01:08) prepopup 1127.63 910.08
+\i (00:01:11) pop dyn_option_select 'Modify design padstack@:@All instances' 
+\i (00:01:11) mod padstack 
+\i (00:01:13) setwindow form.padedit
+\i (00:01:13) pse_exit
+\i (00:01:13) setwindow pcb
+\i (00:01:13) generaledit 
+\i (00:01:14) prepopup 996.09 889.85
+\i (00:01:17) pop dyn_option_select 'Modify design padstack@:@All instances' 
+\i (00:01:17) mod padstack 
+\i (00:02:12) setwindow form.padedit
+\i (00:02:12) pse_exit
+\i (00:02:12) setwindow pcb
+\i (00:02:12) generaledit 
+\i (00:04:45) exit 
+\t (00:04:45)     Journal end - Sun Dec 08 15:21:44 2024
